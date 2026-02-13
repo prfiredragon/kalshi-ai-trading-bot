@@ -78,12 +78,14 @@ The authors are not responsible for any financial losses incurred through the us
    ```
 
 4. **Configure environment variables**
+   
    Create a `.env` file in the root directory:
    ```bash
    KALSHI_API_KEY=your_kalshi_api_key
    XAI_API_KEY=your_xai_api_key
    ```
 5. **Private Key file**
+   
    Downloading the kalshi Private key and renaming it to kalshi_private_key and saving it in the root of the project
 
 6. **Initialize the database**
