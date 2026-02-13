@@ -64,3 +64,4 @@ xai_sdk
 json_repair
 cryptography
 httpx
+scipy
