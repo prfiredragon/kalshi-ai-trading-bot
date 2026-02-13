@@ -83,8 +83,10 @@ The authors are not responsible for any financial losses incurred through the us
    KALSHI_API_KEY=your_kalshi_api_key
    XAI_API_KEY=your_xai_api_key
    ```
+5. **Private Key file**
+   Downloading the kalshi Private key and renaming it to kalshi_private_key and saving it in the root of the project
 
-5. **Initialize the database**
+6. **Initialize the database**
    ```bash
    python src/utils/database.py
    or
