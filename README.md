@@ -87,6 +87,8 @@ The authors are not responsible for any financial losses incurred through the us
 5. **Initialize the database**
    ```bash
    python src/utils/database.py
+   or
+   python -m src.utils.database
    ```
 
 ## 🚀 Quick Start
